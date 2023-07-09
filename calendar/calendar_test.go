@@ -5,9 +5,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Lofanmi/chinese-calendar-golang/ganzhi"
-	"github.com/Lofanmi/chinese-calendar-golang/lunar"
-	"github.com/Lofanmi/chinese-calendar-golang/solar"
+	"github.com/simonwu-os/chinese-calendar-golang/ganzhi"
+	"github.com/simonwu-os/chinese-calendar-golang/lunar"
+	"github.com/simonwu-os/chinese-calendar-golang/solar"
 )
 
 var equals = func(a, b *Calendar) bool {

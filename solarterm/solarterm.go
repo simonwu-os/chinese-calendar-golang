@@ -3,7 +3,7 @@ package solarterm
 import (
 	"time"
 
-	"github.com/Lofanmi/chinese-calendar-golang/utils"
+	"github.com/simonwu-os/chinese-calendar-golang/utils"
 )
 
 // Solarterm 节气

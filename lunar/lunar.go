@@ -5,8 +5,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Lofanmi/chinese-calendar-golang/animal"
-	"github.com/Lofanmi/chinese-calendar-golang/utils"
+	"github.com/simonwu-os/chinese-calendar-golang/animal"
+	"github.com/simonwu-os/chinese-calendar-golang/utils"
 )
 
 // Lunar 农历

@@ -26,7 +26,7 @@ go build
 
 如果您还在使用 GOPATH, 别忘了 `go get`:
 ```bash
-go get -u -v github.com/Lofanmi/chinese-calendar-golang/calendar
+go get -u -v github.com/simonwu-os/chinese-calendar-golang/calendar
 ```
 
 # 用法
@@ -43,7 +43,7 @@ date -R
 import (
 	"time"
 
-	"github.com/Lofanmi/chinese-calendar-golang/calendar"
+	"github.com/simonwu-os/chinese-calendar-golang/calendar"
 )
 
 func xxx() {
@@ -141,7 +141,7 @@ func xxx() {
 
     // 是否闰年
     "is_leap": true,
-    
+
     // 这个月是否为闰月
     "is_leap_month": false,
 
